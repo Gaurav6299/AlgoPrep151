@@ -53,3 +53,6 @@ public class NextGreaterElement3 {
         System.out.println(k);
     }
 }
+
+// if you want to create a branch and switch to that branch then the command is
+// git branch -M gaurav  (ye gaurav name ka ek branch create karega or uss par checkout ho jayega)
